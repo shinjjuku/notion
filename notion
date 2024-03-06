@@ -6,7 +6,7 @@
         display: flex;
         font-family: karla;
         font-size: 18pt;
-        color: ##93b4a4;
+        color: #93b4a4;
         padding: 5px;
         border: 1px solid #ffffff;
         justify-content: left;
